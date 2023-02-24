@@ -9,7 +9,7 @@ In other words it's a research technique to measure what consumers value most ab
 
 In this case, we will simulate data obtained from a crisp retail vendor that has asked some of its customers to rank its products according to their level of preference. 
 
-## Conjoint analysis sheds light on what consumers like and dislikes about a product
+## Conjoint analysis sheds light on what consumers like and dislike about a product
 
 <img width="722" alt="Screenshot 2023-02-17 at 9 33 20 PM" src="https://user-images.githubusercontent.com/80999165/219827883-c307544b-1e1d-455b-b070-7ba279d07a76.png">
 
